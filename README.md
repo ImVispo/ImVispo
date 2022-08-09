@@ -1,16 +1,13 @@
-### Hi there 👋
+![](https://i.imgur.com/4M7IWwP.gif)
 
-<!--
-**ImVispo/ImVispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey!
 
-Here are some ideas to get you started:
+Nickholas Boboaca | Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full stack developer passionate about creating scalable and efficient systems. I have 4+ years of experience in developing web, desktop, and serverside applications, and recently started exploring game development. I primarily work in Typescript, but am comfortable with Python, C++, C#, and Java.
+
+🌐 [Website](https://nickholas.dev) <br>
+📩 [Email](mailto:nickcboboaca@gmail.com) <br>
+
+![](https://i.imgur.com/4M7IWwP.gif)
+![](https://github-readme-stats.vercel.app/api?username=ImVispo&count_private=true&theme=onedark)
