@@ -1,6 +1,4 @@
-![](https://i.imgur.com/4M7IWwP.gif)
-
-### Hey!
+### Hey! 👋
 
 Nickholas Boboaca | Software Developer
 
@@ -9,5 +7,4 @@ Full stack developer passionate about creating scalable and efficient systems. I
 🌐 [Website](https://nickholas.dev) <br>
 📩 [Email](mailto:nickcboboaca@gmail.com) <br>
 
-![](https://i.imgur.com/4M7IWwP.gif)
 ![](https://github-readme-stats.vercel.app/api?username=ImVispo&count_private=true&theme=onedark)
