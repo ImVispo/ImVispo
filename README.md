@@ -8,5 +8,3 @@ Recently I've been working on a project called Vision, an NFT Platform for trade
 
 🌐 [Porfolio](https://nickholas.dev) <br>
 📩 [Email](mailto:nickcboboaca@gmail.com) <br>
-
-![](https://github-readme-stats.vercel.app/api?username=ImVispo&count_private=true&theme=onedark)
