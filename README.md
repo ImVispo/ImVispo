@@ -6,5 +6,5 @@ Full stack developer passionate about creating scalable and efficient systems. I
 
 Recently I've been working on a project called Vision, an NFT Platform for traders. Check it out [here](https://www.visiontools.io/)!
 
-🌐 [Portfolio](https://nickholas.dev) <br>
+🌐 [Portfolio](https://vispo.dev) <br>
 📩 [Email](mailto:nickcboboaca@gmail.com) <br>
